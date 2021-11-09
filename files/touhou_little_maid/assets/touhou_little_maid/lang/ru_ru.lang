@@ -1,8 +1,6 @@
-# Model Pack
 pack.touhou_little_maid.maid.name=Модель Touhou Project
 pack.touhou_little_maid.maid.desc=Модель по умолчанию
 pack.touhou_little_maid.chair.name=Модель стула по умолчанию
-
 model.touhou_little_maid.hakurei_reimu.name=Рейму Хакурей
 model.touhou_little_maid.yakumo_ran.name=Ран Якумо
 model.touhou_little_maid.inubashiri_momizi.name=Момидзи Инубашири
@@ -118,7 +116,6 @@ model.touhou_little_maid.ushizaki_urumi.name=Уруми Усидзаки
 model.touhou_little_maid.watatsuki_no_toyohime.name=Ватацуки-но Тоёхиме
 model.touhou_little_maid.watatsuki_no_yorihime.name=Ватацуки-но Ёрихиме
 model.touhou_little_maid.yorigami_jyoon.name=Дзёон Ёригами
-
 model.touhou_little_maid.hakurei_reimu.desc=§7Жрица рая
 model.touhou_little_maid.yakumo_ran.desc=§7Сикигами пространственного ёкая
 model.touhou_little_maid.inubashiri_momizi.desc=§7Малая патрульная Тенгу
@@ -149,7 +146,6 @@ model.touhou_little_maid.sunny_milk.desc=§7Сияющий солнечный с
 model.touhou_little_maid.alice_margatroid.desc=§7Семицветный кукловод
 model.touhou_little_maid.patchouli_knowledge.desc=§7Неподвижная великолепная библиотека
 model.touhou_little_maid.hong_meiling.desc=§7Китайская девушка
-model.touhou_little_maid.koakuma.desc=§7？？？
 model.touhou_little_maid.letty_whiterock.desc=§7Что проходящая зима
 model.touhou_little_maid.lunasa_prismriver.desc=§7Скрипач полтергейст
 model.touhou_little_maid.merlin_prismriver.desc=§7Трубач полтергейст
@@ -204,7 +200,6 @@ model.touhou_little_maid.horikawa_raiko.desc=§7Иллюзорный ударн�
 model.touhou_little_maid.haniyasushin_keiki.desc=§7Бог-скульптор, сотворённый полным отчуждением
 model.touhou_little_maid.yatadera_narumi.desc=§7Волшебная дзидзо, сошедшая в лесу
 model.touhou_little_maid.seiran.desc=§7Бледно-синий Игл Рави
-model.touhou_little_maid.junko.desc=§7-
 model.touhou_little_maid.ringo.desc=§7Рыжий Eagle Ravi
 model.touhou_little_maid.tsukumo_yatsuhashi.desc=§7Цукумогами старинного кото
 model.touhou_little_maid.tsukumo_benben.desc=§7Цукумогами старинной бивы
@@ -221,19 +216,15 @@ model.touhou_little_maid.ibaraki_kasen.desc=§7Однорукий и рогат�
 model.touhou_little_maid.joutougu_mayumi.desc=§7Ханива-старший ефрейтор
 model.touhou_little_maid.komano_aunn.desc=§7Зверь-защитник, преданный ками и буддам
 model.touhou_little_maid.kurokoma_saki.desc=§7Матриарх семьи Кейга
-model.touhou_little_maid.maribel_hearn.desc=§7-
 model.touhou_little_maid.motoori_kosuzu.desc=§7Библиофил с дешифрующими глазами
 model.touhou_little_maid.nishida_satono.desc=§7Слишком опасная подтанцовщица
 model.touhou_little_maid.sakata_nemuno.desc=§7Ямамба, превзошедшая бренный мир
 model.touhou_little_maid.teireid_mai.desc=§7Слишком опасная подтанцовщица
-model.touhou_little_maid.tokiko.desc=§7-
-model.touhou_little_maid.usami_renko.desc=§7-
 model.touhou_little_maid.usami_sumireko.desc=§7Разоблачить неведомое! Первый председатель Клуба тайной печати
 model.touhou_little_maid.ushizaki_urumi.desc=§7Опекун доисторической рыбы
 model.touhou_little_maid.watatsuki_no_toyohime.desc=§7Принцесса Луны соединяющая моря и горы
 model.touhou_little_maid.watatsuki_no_yorihime.desc=§7Лунная принцесса одержимая божественными духами
 model.touhou_little_maid.yorigami_jyoon.desc=§7Младшая из самых лихих и злодейских близнецов
-
 model.touhou_little_maid.cushion.name=Подушка
 model.touhou_little_maid.class_desk.name=Парта
 model.touhou_little_maid.class_chair.name=Стул

@@ -1,8 +1,6 @@
-# Model Pack
 pack.touhou_little_maid.maid.name=東方プロジェクトモデル
 pack.touhou_little_maid.maid.desc=デフォルトのモデル
 pack.touhou_little_maid.chair.name=デフォルトのモデル
-
 model.touhou_little_maid.hakurei_reimu.name=博麗 霊夢
 model.touhou_little_maid.yakumo_ran.name=八雲 藍
 model.touhou_little_maid.inubashiri_momizi.name=犬走 椛
@@ -118,7 +116,6 @@ model.touhou_little_maid.ushizaki_urumi.name=牛崎 潤美
 model.touhou_little_maid.watatsuki_no_toyohime.name=綿月　豊姫
 model.touhou_little_maid.watatsuki_no_yorihime.name=綿月 依姫
 model.touhou_little_maid.yorigami_jyoon.name=依神 女苑
-
 model.touhou_little_maid.hakurei_reimu.desc=§7楽園の素敵な巫女
 model.touhou_little_maid.yakumo_ran.desc=§7すきま妖怪の式
 model.touhou_little_maid.inubashiri_momizi.desc=§7下っ端哨戒天狗
@@ -149,7 +146,6 @@ model.touhou_little_maid.sunny_milk.desc=§7輝ける日の光
 model.touhou_little_maid.alice_margatroid.desc=§7七色の人形遣い
 model.touhou_little_maid.patchouli_knowledge.desc=§7動かない大図書館
 model.touhou_little_maid.hong_meiling.desc=§7華人小娘
-model.touhou_little_maid.koakuma.desc=§7？？？
 model.touhou_little_maid.letty_whiterock.desc=§7冬の忘れ物
 model.touhou_little_maid.lunasa_prismriver.desc=§7騒霊ヴァイオリスト
 model.touhou_little_maid.merlin_prismriver.desc=§7騒霊トランペッター
@@ -204,7 +200,6 @@ model.touhou_little_maid.horikawa_raiko.desc=§7夢幻のパーカッショニ�
 model.touhou_little_maid.haniyasushin_keiki.desc=§7孤立無援が誂えた造形神
 model.touhou_little_maid.yatadera_narumi.desc=§7森で垂迹した魔法地蔵
 model.touhou_little_maid.seiran.desc=§7浅葱色のイーグルラヴィ
-model.touhou_little_maid.junko.desc=§7-
 model.touhou_little_maid.ringo.desc=§7橘色のイーグルラヴィ
 model.touhou_little_maid.tsukumo_yatsuhashi.desc=§7古びた琴の付喪神
 model.touhou_little_maid.tsukumo_benben.desc=§7古びた琵琶の付喪神
@@ -221,19 +216,15 @@ model.touhou_little_maid.ibaraki_kasen.desc=§7片腕有角の仙人
 model.touhou_little_maid.joutougu_mayumi.desc=§7埴輪兵長
 model.touhou_little_maid.komano_aunn.desc=§7神仏に心酔する守護神獣
 model.touhou_little_maid.kurokoma_saki.desc=§7勁牙組組長
-model.touhou_little_maid.maribel_hearn.desc=§7-
 model.touhou_little_maid.motoori_kosuzu.desc=§7判読眼のビブロフィリア
 model.touhou_little_maid.nishida_satono.desc=§7危険すぎるバックダンサーズ
 model.touhou_little_maid.sakata_nemuno.desc=§7浮世の関を超える山姥
 model.touhou_little_maid.teireid_mai.desc=§7危険すぎるバックダンサーズ
-model.touhou_little_maid.tokiko.desc=§7-
-model.touhou_little_maid.usami_renko.desc=§7-
 model.touhou_little_maid.usami_sumireko.desc=§7深秘を曝け！秘封倶楽部 初代会長
 model.touhou_little_maid.ushizaki_urumi.desc=§7古代魚の子連れ番人
 model.touhou_little_maid.watatsuki_no_toyohime.desc=§7海と山を繋ぐ月の姫
 model.touhou_little_maid.watatsuki_no_yorihime.desc=§7神霊の依り憑く月の姫
 model.touhou_little_maid.yorigami_jyoon.desc=§7最凶最悪の双子の妹
-
 model.touhou_little_maid.cushion.name=クッション
 model.touhou_little_maid.class_desk.name=学生机
 model.touhou_little_maid.class_chair.name=学生椅子
