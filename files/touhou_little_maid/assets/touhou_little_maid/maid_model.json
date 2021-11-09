@@ -8,8 +8,7 @@
 	"model_list": [
 		{
 			"model_id": "touhou_little_maid:hakurei_reimu",
-			"description": ["{model.touhou_little_maid.hakurei_reimu.desc}"],
-			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/head/blink.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+			"description": ["{model.touhou_little_maid.hakurei_reimu.desc}"]
 		},
 		{
 			"model_id": "touhou_little_maid:hakurei_reimu_2",
@@ -437,6 +436,10 @@
 		{
 			"model_id": "touhou_little_maid:watatsuki_no_yorihime",
 			"description": ["{model.touhou_little_maid.watatsuki_no_yorihime.desc}"]
+		},		
+		{
+			"model_id": "touhou_little_maid:reisen",
+			"description": ["{model.touhou_little_maid.reisen.desc}"]
 		},
 		{
 			"model_id": "touhou_little_maid:hieda_no_akyuu",

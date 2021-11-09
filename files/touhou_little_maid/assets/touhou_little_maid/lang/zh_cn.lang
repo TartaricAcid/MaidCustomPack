@@ -118,6 +118,7 @@ model.touhou_little_maid.ushizaki_urumi.name=牛崎润美
 model.touhou_little_maid.watatsuki_no_toyohime.name=绵月丰姬
 model.touhou_little_maid.watatsuki_no_yorihime.name=绵月依姬
 model.touhou_little_maid.yorigami_jyoon.name=依神女苑
+model.touhou_little_maid.reisen.name=铃仙二号
 
 model.touhou_little_maid.hakurei_reimu.desc=§7乐园的巫女
 model.touhou_little_maid.yakumo_ran.desc=§7隙间妖怪的式神
@@ -233,6 +234,7 @@ model.touhou_little_maid.ushizaki_urumi.desc=§7古代鱼的携子护卫
 model.touhou_little_maid.watatsuki_no_toyohime.desc=§7连接海与山的月之公主
 model.touhou_little_maid.watatsuki_no_yorihime.desc=§7神灵附体的月之公主
 model.touhou_little_maid.yorigami_jyoon.desc=§7最凶最恶的双子之妹
+model.touhou_little_maid.reisen.desc=§7-
 
 model.touhou_little_maid.cushion.name=坐垫
 model.touhou_little_maid.class_desk.name=课桌
