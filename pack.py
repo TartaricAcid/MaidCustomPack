@@ -17,8 +17,8 @@ def json_to_lang(project_in, namespace_in, lang_file):
 if __name__ == '__main__':
     if not os.path.isdir("./tmp"):
         os.makedirs("./tmp")
-    if not os.path.isdir("./out"):
-        os.makedirs("./out")
+    if not os.path.isdir("./tlm_custom_pack"):
+        os.makedirs("./tlm_custom_pack")
     for folder in os.listdir("./files"):
         shutil.copytree("./files/{}".format(folder), "./tmp/{}".format(folder))
     for project in os.listdir("./i18n"):
@@ -36,7 +36,7 @@ if __name__ == '__main__':
                 if langFile != "en_us.json":
                     json_to_lang(project, namespace, langFile)
     for project in os.listdir("./tmp"):
-        outPath = "./out/{}".format(project)
+        outPath = "./tlm_custom_pack/{}".format(project)
         projectPath = "./tmp/{}/".format(project)
         shutil.make_archive(outPath, "zip", projectPath)
     shutil.rmtree("./tmp")

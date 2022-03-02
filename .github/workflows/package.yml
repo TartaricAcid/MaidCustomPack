@@ -28,5 +28,18 @@ jobs:
     - name: Upload a Build Artifact
       uses: actions/upload-artifact@v2.2.2
       with:
-        name: touhou_little_maid.zip
-        path: ./out/touhou_little_maid.zip
+        name: tlm_custom_pack
+        path: ./tlm_custom_pack/*.zip
+
+    - name: Pushes to another repository
+      uses: cpina/github-action-push-to-another-repository@main
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      with:
+        source-directory: 'tlm_custom_pack'
+        destination-github-username: 'TartaricAcid'
+        destination-repository-name: 'TouhouLittleMaid'
+        target-directory: 'resources/assets/touhou_little_maid/tlm_custom_pack'
+        user-email: baka943@qq.com
+        commit-message: Update the default model pack
+        target-branch: 1.16.5
