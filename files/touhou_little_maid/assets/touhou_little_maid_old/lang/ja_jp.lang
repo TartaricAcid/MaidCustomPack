@@ -1,10 +1,28 @@
+# Touhou Project PC-98
 pack.touhou_little_maid_old.maid.name=東方プロジェクトモデル
 pack.touhou_little_maid_old.maid.desc=PC-98のキャラクター
-model.touhou_little_maid_old.reimu_hakurei.name=博麗 霊夢
+model.touhou_little_maid_old.yumemi_okazaki.name=岡崎 夢美
+model.touhou_little_maid_old.mima.desc=§7悪霊さん
+model.touhou_little_maid_old.yumemi_okazaki.desc=§7夢幻伝説
 model.touhou_little_maid_old.alice.name=アリス
 model.touhou_little_maid_old.mima.name=魅魔
-model.touhou_little_maid_old.yumemi_okazaki.name=岡崎 夢美
-model.touhou_little_maid_old.reimu_hakurei.desc=§7夢と伝統を保守する巫女
-model.touhou_little_maid_old.mima.desc=§7悪霊さん
+model.touhou_little_maid_old.reimu_hakurei.name=博麗 霊夢
 model.touhou_little_maid_old.alice.desc=§7死の少女
-model.touhou_little_maid_old.yumemi_okazaki.desc=§7夢幻伝説
+model.touhou_little_maid_old.konngara.name=Konngara
+model.touhou_little_maid_old.elis.name=Elis
+model.touhou_little_maid_old.sariel.name=Sariel
+model.touhou_little_maid_old.meira.name=Meira
+model.touhou_little_maid_old.kirisame_marisa.name=Kirisame Marisa
+
+model.touhou_little_maid_old.reimu_hakurei.desc=§7夢と伝統を保守する巫女
+model.touhou_little_maid_old.singyoku2.desc=Gatekeeper
+model.touhou_little_maid_old.singyoku3.desc=Gatekeeper
+model.touhou_little_maid_old.mima.desc=§7Evil Spirit
+model.touhou_little_maid_old.alice.desc=§7Girl of Death
+model.touhou_little_maid_old.yumemi_okazaki.desc=§7Fantasy Legend
+model.touhou_little_maid_old.kikuri.desc=§7Hellish Moon
+model.touhou_little_maid_old.konngara.desc=§7Astral Knight
+model.touhou_little_maid_old.elis.desc=§7Innocence Devil
+model.touhou_little_maid_old.sariel.desc=§7Angel of Death
+model.touhou_little_maid_old.meira.desc=§7Samurai
+model.touhou_little_maid_old.kirisame_marisa.desc=§7Magician
