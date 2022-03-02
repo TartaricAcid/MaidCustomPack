@@ -37,6 +37,6 @@ if __name__ == '__main__':
                     json_to_lang(project, namespace, langFile)
     for project in os.listdir("./tmp"):
         outPath = "./tlm_custom_pack/{}".format(project)
-        projectPath = "./tmp/{}/".format(project)
+        projectPath = "./tmp/{}-1.0.0/".format(project)
         shutil.make_archive(outPath, "zip", projectPath)
     shutil.rmtree("./tmp")
