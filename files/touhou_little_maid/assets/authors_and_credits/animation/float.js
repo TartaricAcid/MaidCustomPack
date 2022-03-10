@@ -24,6 +24,10 @@ Java.asJSONCompatible({
             left.setRotateAngleZ(left.getInitRotateAngleZ() + Math.atan(limbSwingAmount) * 0.75)
             right.setRotateAngleZ(right.getInitRotateAngleZ() - Math.atan(limbSwingAmount) * 0.75)
         }
-        GlWrapper.translate(0, 0.1 * Math.sin(ageInTicks * 0.075) - 0.1, 0);
+        if (!maid.isSleep()) {
+            GlWrapper.translate(0, 0.1 * Math.sin(ageInTicks * 0.075) - 0.1, 0);
+        } else {
+            GlWrapper.translate(0, 0.5, 0);
+        }
     }
 })

@@ -14,16 +14,18 @@
 		{
 			"model_id": "authors_and_credits:sazuki",
 			"description": ["{model.authors_and_credits.sazuki.desc}", "{model.authors_and_credits.sazuki.author.desc}"],
-			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/head/blink.js", "touhou_little_maid:animation/maid/default/tail/default.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/head/blink.js", "touhou_little_maid:animation/maid/default/tail/default.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"],
+			"render_item_scale": 1.1
 		},
 		{
 			"model_id": "authors_and_credits:pajinyi",
-			"description": ["{model.authors_and_credits.pajinyi.desc}"],			
+			"description": ["{model.authors_and_credits.pajinyi.desc}"],
 			"can_hold_trolley": false,
 			"show_hata": false,
 			"can_hold_vehicle": false,
 			"can_riding_broom": false,
-			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/head/blink.js", "touhou_little_maid:animation/maid/default/head/ear_shake.js", "touhou_little_maid:animation/maid/default/tail/default.js", "touhou_little_maid:animation/base/float/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "authors_and_credits:animation/arm.js", "authors_and_credits:animation/float.js"]
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/head/blink.js", "touhou_little_maid:animation/maid/default/head/ear_shake.js", "touhou_little_maid:animation/maid/default/tail/default.js", "touhou_little_maid:animation/base/float/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "authors_and_credits:animation/arm.js", "authors_and_credits:animation/float.js"],
+			"render_item_scale": 0.9
 		}
 	]
 }

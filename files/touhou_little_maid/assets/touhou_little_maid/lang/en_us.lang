@@ -260,3 +260,5 @@ model.touhou_little_maid.park_bench.name=Park Bench
 model.touhou_little_maid.rinnosuke_children_toys.name=Rinnosuke Children's Toys
 model.touhou_little_maid.moto.name=Moto
 model.touhou_little_maid.bowl.name=Shinmyoumaru's Bowl
+
+model.touhou_little_maid.moesumika.desc=§7Tips: the name of the MineCraft Gensoukyo server mascot (in English lowercase)

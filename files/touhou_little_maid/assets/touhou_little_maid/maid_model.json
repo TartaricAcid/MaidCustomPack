@@ -436,7 +436,7 @@
 		{
 			"model_id": "touhou_little_maid:watatsuki_no_yorihime",
 			"description": ["{model.touhou_little_maid.watatsuki_no_yorihime.desc}"]
-		},		
+		},
 		{
 			"model_id": "touhou_little_maid:reisen",
 			"description": ["{model.touhou_little_maid.reisen.desc}"]
@@ -493,8 +493,10 @@
 		{
 			"model_id": "touhou_little_maid:moesumika",
 			"easter_egg": {
-				"tag": "moesumika"
-			}
+				"tag": "moesumika",
+				"encrypt": false
+			},
+			"description": ["{model.touhou_little_maid.moesumika.desc}"]
 		}
 	]
 }
