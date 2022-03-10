@@ -26,6 +26,11 @@
 			"can_riding_broom": false,
 			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/head/blink.js", "touhou_little_maid:animation/maid/default/head/ear_shake.js", "touhou_little_maid:animation/maid/default/tail/default.js", "touhou_little_maid:animation/base/float/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "authors_and_credits:animation/arm.js", "authors_and_credits:animation/float.js"],
 			"render_item_scale": 0.9
+		},
+		{
+			"model_id": "authors_and_credits:fledge",
+			"description": ["{model.authors_and_credits.fledge.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/head/blink.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js"]
 		}
 	]
 }

@@ -117,30 +117,6 @@
 			"tameable_can_ride": false
 		},
 		{
-			"model_id": "next_update_model:computer_desk",
-			"animation": [],
-			"render_item_scale": 0.5,
-			"tameable_can_ride": false
-		},
-		{
-			"model_id": "next_update_model:bookshelf",
-			"animation": [],
-			"render_item_scale": 0.5,
-			"tameable_can_ride": false
-		},
-		{
-			"model_id": "next_update_model:electronic_organ",
-			"animation": [],
-			"render_item_scale": 0.5,
-			"tameable_can_ride": false
-		},
-		{
-			"model_id": "next_update_model:arcade",
-			"animation": [],
-			"render_item_scale": 0.45,
-			"tameable_can_ride": false
-		},
-		{
 			"model_id": "next_update_model:fox_demon_statue",
 			"animation": [],
 			"render_item_scale": 0.9,
