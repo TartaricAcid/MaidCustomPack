@@ -31,7 +31,7 @@ jobs:
         name: tlm_custom_pack
         path: ./tlm_custom_pack/*.zip
 
-    - name: Pushes to another repository
+    - name: Pushes to 1.16.5 repository
       uses: cpina/github-action-push-to-another-repository@main
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
@@ -43,3 +43,16 @@ jobs:
         user-email: baka943@qq.com
         commit-message: Update the default model pack
         target-branch: 1.16.5
+
+      - name: Pushes to 1.18.2 repository
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source-directory: 'tlm_custom_pack'
+          destination-github-username: 'TartaricAcid'
+          destination-repository-name: 'TouhouLittleMaid'
+          target-directory: 'src/main/resources/assets/touhou_little_maid/tlm_custom_pack'
+          user-email: baka943@qq.com
+          commit-message: Update the default model pack
+          target-branch: 1.18.2
