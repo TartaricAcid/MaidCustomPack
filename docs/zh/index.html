@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>车万女仆资源包</title>
+    <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+    <link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/index.css" , type="text/css">
+</head>
+
+<body>
+    <!--   标题   -->
+    <div class="container has-text-centered">
+        <img src="https://s2.loli.net/2022/07/02/4gZbeOu86kBEpGi.png">
+    </div>
+
+    <!--   资源包列表   -->
+    <div class="columns is-desktop">
+        <div class="column is-7 is-offset-1" id="modelpack">
+            <article class="panel is-primary">
+                <p class="panel-heading"><i class="fas fa-list"></i> 资源列表 </p>
+                <p class="panel-tabs" style="font-size: 1.2rem">
+                    <a :class="{ 'is-active': index===0 }" @click="selectIndex(0)">全部</a>
+                    <a :class="{ 'is-active': index===1 }" @click="selectIndex(1)">女仆</a>
+                    <a :class="{ 'is-active': index===2 }" @click="selectIndex(2)">坐垫</a>
+                    <a :class="{ 'is-active': index===3 }" @click="selectIndex(3)">声音</a>
+                </p>
+                <div class="panel-block is-black" v-for="item in info">
+                    <span class="panel-icon mr-5"><i class="fas fa-file-archive fa-2x"></i></span>
+                    <div class="my-0">
+                        <p style="font-weight: 600">{{item.language.zh_cn[item.name]}}<br></p>
+                        <p class="has-text-grey-darker is-size-7">{{item.language.zh_cn[item.desc]}}<br></p>
+                        <p class="has-text-grey is-size-7">
+                            <i class="fas fa-file-alt"></i> {{formatFileSize(item.file_size)}} &nbsp;&nbsp;&nbsp;
+                            <i class="fas fa-calendar-alt"></i> {{formatTime(item.upload_time)}}
+                        </p>
+                        <p class="has-text-grey is-size-7">
+                            <span v-for="author in item.author"><i class="fas fa-at"></i>{{author}} </span>
+                        </p>
+                    </div>
+                    <a class="button ml-auto is-info is-outlined" :href="'http://tlm.cfpa.team:29434'+item.url"><i class="fas fa-download"></i></a>
+                </div>
+            </article>
+        </div>
+
+        <!--   其他说明   -->
+        <div class="column is-3">
+            <!--   相关链接   -->
+            <article class="message is-info">
+                <div class="message-header">
+                    <p><i class="fas fa-link"></i> 相关链接 </p>
+                </div>
+                <div class="message-body has-text-dark p-1">
+                    <table class="table is-striped is-fullwidth is-hoverable">
+                        <tbody style="text-align: center">
+                            <tr>
+                                <th><i class="fab fa-github-alt fa-2x"></i></th>
+                                <th><a href="https://github.com/TartaricAcid/TouhouLittleMaid" class="has-text-link">访问 GitHub</a></th>
+                            </tr>
+                            <tr>
+                                <th><i class="fas fa-book fa-2x"></i></th>
+                                <th><a href="http://page.cfpa.team/TouhouLittleMaid/zh_CN/" class="has-text-link">查看文档</a></th>
+                            </tr>
+                            <tr>
+                                <th><i class="fab fa-java fa-2x"></i></th>
+                                <th><a href="https://www.mcmod.cn/download/1796.html" class="has-text-link">下载模组</a></th>
+                            </tr>
+                            <tr>
+                                <th><i class="fab fa-qq fa-2x"></i></th>
+                                <th><a href="https://jq.qq.com/?_wv=1027&k=9UxAi34X" class="has-text-link">加入交流群组</a></th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </article>
+
+            <!--   模型包安装说明   -->
+            <article class="message is-info">
+                <div class="message-header">
+                    <p><i class="fas fa-question-circle"></i> 模型包安装说明 </p>
+                </div>
+                <div class="message-body">
+                    <div class="block">
+                        <span class="tag is-info mc-version">1.12.2</span> 像原版资源包一样，在游戏内加载对应的模型包即可。<br>
+                    </div>
+                    <div class="block">
+                        <span class="tag is-info mc-version">1.16.5</span> 将模型包放置在游戏目录下的 <code>tlm_custom_pack</code> 文件夹中，并使用 <code>/tlm pack reload</code> 指令重载即可。<br>
+                    </div>
+                    <div class="block">
+                        <span class="tag is-info mc-version">1.18.2</span> 将模型包放置在游戏目录下的 <code>tlm_custom_pack</code> 文件夹中，并使用 <code>/tlm pack reload</code> 指令重载即可。<br>
+                    </div>
+                </div>
+            </article>
+
+            <!--   声音包安装说明   -->
+            <article class="message is-info">
+                <div class="message-header">
+                    <p><i class="fas fa-music"></i> 声音包安装说明 </p>
+                </div>
+                <div class="message-body">
+                    <div class="block">
+                        <span class="tag is-info mc-version">1.12.2</span> 像原版资源包一样，在游戏内加载对应的声音包即可。<br>
+                    </div>
+                    <div class="block">
+                        <span class="tag is-info mc-version">1.16.5</span> 像原版资源包一样，在游戏内加载对应的声音包即可。<br>
+                    </div>
+                    <div class="block">
+                        <span class="tag is-info mc-version">1.18.2</span> 像原版资源包一样，在游戏内加载对应的声音包即可。<br>
+                    </div>
+                </div>
+            </article>
+        </div>
+
+        <!--   页边距   -->
+        <div class="colum is-1"></div>
+    </div>
+
+    <script src="https://cdn.bootcdn.net/ajax/libs/vue/2.7.0-beta.5/vue.min.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/axios/0.27.2/axios.js"></script>
+    <script src="../js/index.js" type='text/javascript'></script>
+</body>
+
+</html>
