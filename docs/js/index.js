@@ -57,7 +57,7 @@ var vm = new Vue({
     },
     mounted() {
         axios
-            .get('data/info.json')
+            .get('MaidCustomPack/data/info.json')
             .then(response => {
                 this.all = response.data;
                 this.info = this.all;
