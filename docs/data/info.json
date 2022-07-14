@@ -1,5 +1,109 @@
 [
   {
+    "checksum": 3819053605,
+    "version": "2.6.0",
+    "upload_time": 1657794926201,
+    "name": "tlm.virtual_real_new.name",
+    "author": [
+      "gyhgyj88"
+    ],
+    "desc": "tlm.virtual_real_new.desc",
+    "file_name": "virtual_real_new-2.6.0.zip",
+    "file_size": 197650,
+    "url": "/file/virtual_real_new-2.6.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.virtual_real_new.name": "New VirtuaReal Models",
+        "tlm.virtual_real_new.desc": "Some character from VirtuaReal!"
+      },
+      "zh_cn": {
+        "tlm.virtual_real_new.name": "新 VirtuaReal 模型包",
+        "tlm.virtual_real_new.desc": "一些 VirtuaReal 的角色！"
+      }
+    }
+  },
+  {
+    "checksum": 1524869335,
+    "version": "1.0.0",
+    "upload_time": 1657794888287,
+    "name": "tlm.toufamahetadeluer.name",
+    "author": [
+      "gyhgyj88"
+    ],
+    "desc": "tlm.toufamahetadeluer.desc",
+    "file_name": "toufamahetadeluer-1.0.0.zip",
+    "file_size": 42471,
+    "url": "/file/toufamahetadeluer-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.toufamahetadeluer.name": "Toufa's Characters Model Pack",
+        "tlm.toufamahetadeluer.desc": "Some characters of Bilibili's artist Toufa"
+      },
+      "zh_cn": {
+        "tlm.toufamahetadeluer.name": "头发妈的女儿们",
+        "tlm.toufamahetadeluer.desc": "B站画师——咦我的头发呢的一些作品"
+      }
+    }
+  },
+  {
+    "checksum": 2878168051,
+    "version": "1.0.0",
+    "upload_time": 1657794851749,
+    "name": "tlm.gyhgyj.name",
+    "author": [
+      "gyhgyj88"
+    ],
+    "desc": "tlm.gyhgyj.desc",
+    "file_name": "gyhgyj-1.0.0.zip",
+    "file_size": 40332,
+    "url": "/file/gyhgyj-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.gyhgyj.name": "gyhgyj88's Random Things",
+        "tlm.gyhgyj.desc": "Just Random Things"
+      },
+      "zh_cn": {
+        "tlm.gyhgyj.name": "gyhgyj88的随意模型",
+        "tlm.gyhgyj.desc": "只是一些随意作品"
+      }
+    }
+  },
+  {
+    "checksum": 2355875865,
+    "version": "1.0.2",
+    "upload_time": 1657794851748,
+    "name": "tlm.arcaea_maid_pack.name",
+    "author": [
+      "MI_Smart"
+    ],
+    "desc": "tlm.arcaea_maid_pack.desc",
+    "file_name": "arcaea_maid_pack-1.0.2.zip",
+    "file_size": 92475,
+    "url": "/file/arcaea_maid_pack-1.0.2.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.arcaea_maid_pack.name": "Arcaea Maid Pack",
+        "tlm.arcaea_maid_pack.desc": "Arcaea is a new dimension rhythm game developed by lowiro."
+      },
+      "zh_cn": {
+        "tlm.arcaea_maid_pack.name": "Arcaea（韵律源点）模型包",
+        "tlm.arcaea_maid_pack.desc": "Arcaea是lowiro开发的一款三维立体音乐游戏。"
+      }
+    }
+  },
+  {
     "checksum": 3890946428,
     "version": "1.1.4",
     "upload_time": 1655103267414,
@@ -155,32 +259,6 @@
       "zh_cn": {
         "tlm.7_years_later_caricature.name": "葵的笔记模型包",
         "tlm.7_years_later_caricature.desc": "“我在7年后等着你”漫画版"
-      }
-    }
-  },
-  {
-    "checksum": 3356310967,
-    "version": "2.5.0",
-    "upload_time": 1647673225149,
-    "name": "tlm.virtual_real_new.name",
-    "author": [
-      "gyhgyj88"
-    ],
-    "desc": "tlm.virtual_real_new.desc",
-    "file_name": "virtual_real_new-2.5.0.zip",
-    "file_size": 166876,
-    "url": "/file/virtual_real_new-2.5.0.zip",
-    "type": [
-      "maid"
-    ],
-    "language": {
-      "en_us": {
-        "tlm.virtual_real_new.name": "New VirtuaReal Models",
-        "tlm.virtual_real_new.desc": "Some character from VirtuaReal!"
-      },
-      "zh_cn": {
-        "tlm.virtual_real_new.name": "新 VirtuaReal 模型包",
-        "tlm.virtual_real_new.desc": "一些 VirtuaReal 的角色！"
       }
     }
   },
@@ -1386,32 +1464,6 @@
       "zh_cn": {
         "tlm.thegodofobleisk.name": "巨神兵模型包",
         "tlm.thegodofobleisk.desc": "添加来自于《游戏王》的角色：欧贝利斯克的巨神兵"
-      }
-    }
-  },
-  {
-    "checksum": 2006266810,
-    "version": "1.0.1",
-    "upload_time": 1599989086314,
-    "name": "tlm.arcaea_maid_pack.name",
-    "author": [
-      "MI_Smart"
-    ],
-    "desc": "tlm.arcaea_maid_pack.desc",
-    "file_name": "arcaea_maid_pack-1.0.1.zip",
-    "file_size": 53049,
-    "url": "/file/arcaea_maid_pack-1.0.1.zip",
-    "type": [
-      "maid"
-    ],
-    "language": {
-      "en_us": {
-        "tlm.arcaea_maid_pack.name": "Arcaea Maid Pack",
-        "tlm.arcaea_maid_pack.desc": "Arcaea is a new dimension rhythm game developed by lowiro."
-      },
-      "zh_cn": {
-        "tlm.arcaea_maid_pack.name": "Arcaea（韵律源点）模型包",
-        "tlm.arcaea_maid_pack.desc": "Arcaea是lowiro开发的一款三维立体音乐游戏。"
       }
     }
   },
