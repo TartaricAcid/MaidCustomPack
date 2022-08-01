@@ -1,5 +1,57 @@
 [
   {
+    "checksum": 3267734142,
+    "version": "1.1.5",
+    "upload_time": 1659364225222,
+    "name": "tlm.lilies_model_pack.name",
+    "author": [
+      "GoldYgg"
+    ],
+    "desc": "tlm.lilies_model_pack.desc",
+    "file_name": "lilies_model_pack-1.1.5.zip",
+    "file_size": 177657,
+    "url": "/file/lilies_model_pack-1.1.5.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.lilies_model_pack.name": "Lilies Model Pack",
+        "tlm.lilies_model_pack.desc": "Some random model made by GoldYgg"
+      },
+      "zh_cn": {
+        "tlm.lilies_model_pack.name": "萝莉控模型包",
+        "tlm.lilies_model_pack.desc": "由玩家金币制作的女仆模型包"
+      }
+    }
+  },
+  {
+    "checksum": 829950654,
+    "version": "1.0.1",
+    "upload_time": 1659364202626,
+    "name": "tlm.azurlane_asashio_family.name",
+    "author": [
+      "Roadrunner_71"
+    ],
+    "desc": "tlm.azurlane_asashio_family.desc",
+    "file_name": "azurlane_asashio_family-1.0.1.zip",
+    "file_size": 56338,
+    "url": "/file/azurlane_asashio_family-1.0.1.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.azurlane_asashio_family.name": "Azur Lane Asashio Pack",
+        "tlm.azurlane_asashio_family.desc": "IJN Asashio-class Destroyer"
+      },
+      "zh_cn": {
+        "tlm.azurlane_asashio_family.name": "碧蓝航线-朝潮一家",
+        "tlm.azurlane_asashio_family.desc": "重樱的朝潮一家"
+      }
+    }
+  },
+  {
     "checksum": 3819053605,
     "version": "2.6.0",
     "upload_time": 1657794926201,
@@ -100,32 +152,6 @@
       "zh_cn": {
         "tlm.arcaea_maid_pack.name": "Arcaea（韵律源点）模型包",
         "tlm.arcaea_maid_pack.desc": "Arcaea是lowiro开发的一款三维立体音乐游戏。"
-      }
-    }
-  },
-  {
-    "checksum": 3890946428,
-    "version": "1.1.4",
-    "upload_time": 1655103267414,
-    "name": "tlm.lolicon_model_pack.name",
-    "author": [
-      "GoldYgg"
-    ],
-    "desc": "tlm.lolicon_model_pack.desc",
-    "file_name": "lolicon_model_pack-1.1.4.zip",
-    "file_size": 169657,
-    "url": "/file/lolicon_model_pack-1.1.4.zip",
-    "type": [
-      "maid"
-    ],
-    "language": {
-      "en_us": {
-        "tlm.lolicon_model_pack.name": "Lolicon Model Pack",
-        "tlm.lolicon_model_pack.desc": "Some random model made by goldygg"
-      },
-      "zh_cn": {
-        "tlm.lolicon_model_pack.name": "萝莉控模型包",
-        "tlm.lolicon_model_pack.desc": "由玩家金币制作的女仆模型包"
       }
     }
   },
