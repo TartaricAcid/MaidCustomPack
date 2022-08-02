@@ -12,5 +12,17 @@
     "model.touhou_little_maid_old.meira.desc": "§7Samurai",
     "model.touhou_little_maid_old.meira.name": "Meira",
     "model.touhou_little_maid_old.mima.desc": "§7Ác Thần",
-    "model.touhou_little_maid_old.mima.name": "Mima"
+    "model.touhou_little_maid_old.mima.name": "Mima",
+    "model.touhou_little_maid_old.reimu_hakurei.desc": "§7Vu Nữ trong Đền Thờ, Người bảo vệ Giấc Mơ và Truyền Thống",
+    "model.touhou_little_maid_old.reimu_hakurei.name": "Reimu Hakurei",
+    "model.touhou_little_maid_old.sariel.desc": "§7Thiên thần Chết chóc",
+    "model.touhou_little_maid_old.sariel.name": "Sariel",
+    "model.touhou_little_maid_old.singyoku2.desc": "Người gác cổng",
+    "model.touhou_little_maid_old.singyoku2.name": "SinGyoku (Thể thứ 2)",
+    "model.touhou_little_maid_old.singyoku3.desc": "Người gác cổng",
+    "model.touhou_little_maid_old.singyoku3.name": "SinGyoku (Thể thứ 3)",
+    "model.touhou_little_maid_old.yumemi_okazaki.desc": "§7Huyền Thoại Ảo Tưởng",
+    "model.touhou_little_maid_old.yumemi_okazaki.name": "Yumemi Okazaki",
+    "pack.touhou_little_maid_old.maid.desc": "Các nhân vật PC-98",
+    "pack.touhou_little_maid_old.maid.name": "Mô hình Touhou Project"
 }
