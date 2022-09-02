@@ -1,5 +1,31 @@
 [
   {
+    "checksum": 2702460295,
+    "version": "1.2.0",
+    "upload_time": 1662124364639,
+    "name": "tlm.lilies_model_pack.name",
+    "author": [
+      "GoldYgg"
+    ],
+    "desc": "tlm.lilies_model_pack.desc",
+    "file_name": "lilies_model_pack-1.2.0.zip",
+    "file_size": 200288,
+    "url": "/file/lilies_model_pack-1.2.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.lilies_model_pack.name": "Lilies Model Pack",
+        "tlm.lilies_model_pack.desc": "Some random model made by GoldYgg"
+      },
+      "zh_cn": {
+        "tlm.lilies_model_pack.name": "萝莉控模型包",
+        "tlm.lilies_model_pack.desc": "由玩家金币制作的女仆模型包"
+      }
+    }
+  },
+  {
     "checksum": 2650895301,
     "version": "1.0.0",
     "upload_time": 1661776325420,
@@ -48,32 +74,6 @@
       "zh_cn": {
         "tlm.azuru_line.name": "碧蓝航线模型包",
         "tlm.azuru_line.desc": "来自于游戏”碧蓝航线“的角色模型包"
-      }
-    }
-  },
-  {
-    "checksum": 2456961955,
-    "version": "1.1.6",
-    "upload_time": 1660845782305,
-    "name": "tlm.lilies_model_pack.name",
-    "author": [
-      "GoldYgg"
-    ],
-    "desc": "tlm.lilies_model_pack.desc",
-    "file_name": "lilies_model_pack-1.1.6.zip",
-    "file_size": 186090,
-    "url": "/file/lilies_model_pack-1.1.6.zip",
-    "type": [
-      "maid"
-    ],
-    "language": {
-      "en_us": {
-        "tlm.lilies_model_pack.name": "Lilies Model Pack",
-        "tlm.lilies_model_pack.desc": "Some random model made by GoldYgg"
-      },
-      "zh_cn": {
-        "tlm.lilies_model_pack.name": "萝莉控模型包",
-        "tlm.lilies_model_pack.desc": "由玩家金币制作的女仆模型包"
       }
     }
   },
