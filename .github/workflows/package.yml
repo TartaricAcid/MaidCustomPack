@@ -9,6 +9,7 @@ on:
       - main
     paths:
       - 'files/**'
+      - 'tlm_custom_pack/**'
 
 jobs:
   build:
