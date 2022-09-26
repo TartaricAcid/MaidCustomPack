@@ -1,4 +1,11 @@
 {
+    "chat_bubble.touhou_little_maid.cold.1": "So Cold...",
+    "chat_bubble.touhou_little_maid.hot.1": "So Hot...",
+    "chat_bubble.touhou_little_maid.hurt.1": "OUCH!",
+    "chat_bubble.touhou_little_maid.morning.1": "Good Morning",
+    "chat_bubble.touhou_little_maid.night.1": "Good Night",
+    "chat_bubble.touhou_little_maid.rain.1": "Raining",
+    "chat_bubble.touhou_little_maid.snow.1": "Snowing",
     "model.touhou_little_maid.aki_sizuha.desc": "§7Symbol of Loneliness and Demise",
     "model.touhou_little_maid.aki_sizuha.name": "Shizuha Aki",
     "model.touhou_little_maid.alice_margatroid.desc": "§7Seven-Colored Puppeteer",

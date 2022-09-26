@@ -262,3 +262,12 @@ model.touhou_little_maid.moto.name=Moto
 model.touhou_little_maid.bowl.name=Shinmyoumaru's Bowl
 
 model.touhou_little_maid.moesumika.desc=§7Tips: the name of the MineCraft Gensoukyo server mascot (in English lowercase)
+
+# Chat Bubble
+chat_bubble.touhou_little_maid.morning.1=Good Morning
+chat_bubble.touhou_little_maid.night.1=Good Night
+chat_bubble.touhou_little_maid.hot.1=So Hot...
+chat_bubble.touhou_little_maid.cold.1=So Cold...
+chat_bubble.touhou_little_maid.rain.1=Raining
+chat_bubble.touhou_little_maid.snow.1=Snowing
+chat_bubble.touhou_little_maid.hurt.1=OUCH!
