@@ -1,4 +1,11 @@
 {
+    "chat_bubble.touhou_little_maid.cold.1": "好冷……",
+    "chat_bubble.touhou_little_maid.hot.1": "好热……",
+    "chat_bubble.touhou_little_maid.hurt.1": "疼疼疼！",
+    "chat_bubble.touhou_little_maid.morning.1": "早上好",
+    "chat_bubble.touhou_little_maid.night.1": "晚上好",
+    "chat_bubble.touhou_little_maid.rain.1": "下雨了",
+    "chat_bubble.touhou_little_maid.snow.1": "下雪了",
     "model.touhou_little_maid.aki_sizuha.desc": "§7寂寞与终焉的象征",
     "model.touhou_little_maid.aki_sizuha.name": "秋静叶",
     "model.touhou_little_maid.alice_margatroid.desc": "§7七色的人偶使",
